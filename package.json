@@ -1,0 +1,11 @@
+{
+  "name": "wedding-invite-backend",
+  "version": "1.0.0",
+  "description": "backend service for wedding invite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hassan Usman, Jeremy",
+  "license": "ISC"
+}
